@@ -9,6 +9,7 @@ Requisitos
 [x] Deve ser possível obter dados da conta do cliente
 [x] Deve ser possível deletar uma conta
 Regras de negócio
+[] Deve ser possível retornar o balance
 [x] Não deve ser possível cadastrar uma conta com CPF já existente
 [x] Não deve ser possível buscar extrato em uma conta não existente
 [x] Não deve ser possível fazer depósito em uma conta não existente
